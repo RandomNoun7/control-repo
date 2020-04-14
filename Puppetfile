@@ -6,6 +6,9 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/stdlib',      '4.25.1'
 #mod 'puppetlabs/concat',      '4.2.1'
 mod 'puppetlabs/iis'
+mod 'puppetlabs/pwshlib'
+mod 'puppetlabs/powershell'
+
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 #mod 'apache',
